@@ -13648,6 +13648,17 @@
             ],
             "user_name": "Zhongyue Luo",
             "emails": ["lzyeval@gmail.com", "zhongyue.nah@intel.com"]
+        },
+        {
+            "launchpad_id": "zoukeke",
+            "companies": [
+                {
+                    "company_name": "China Mobile",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Zou Keke",
+            "emails": ["zoukeke@cmss.chinamobile.com", "zouke0926@163.com"]
         }
     ],
     "companies": [
